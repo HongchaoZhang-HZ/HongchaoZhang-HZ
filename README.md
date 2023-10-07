@@ -15,6 +15,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="28" height="28"/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hongchaozhang-hz&theme=blueberry&hide_border=true" alt="hongchaozhang-hz" /></p>
 
